@@ -1,0 +1,11 @@
+SPDX-License-Identifier: GPL-2.0-or-later
+
+This repository contains an experimental, reduced-width LIN port of the
+Uniswap V3 TickMath.getSqrtRatioAtTick algorithm published in
+Uniswap/v3-core v1.0.0 (GPL-2.0-or-later after BUSL Change Date 2023-04-01).
+
+Upstream: https://github.com/Uniswap/v3-core
+Proofs:   https://github.com/kbelludoo/lin-open
+Clone:    https://github.com/kbelludoo/clone-lin-uniswap-v3-tick
+
+See the GNU GPL version 2 or later for terms.
